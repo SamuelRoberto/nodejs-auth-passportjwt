@@ -2,6 +2,25 @@
 
 NodeJS Authentication Boilerplate with Passport JWT Strategy
 
+## Getting Started
+Open console and issue
+```sh
+$ git clone https://github.com/expressjs/morgan.git
+```
+
+Then in the project directory
+```sh
+$ npm install
+```
+
+And start the project
+```sh
+$ npm start
+```
+
+----
+MIT
+
 ## Routes
 
 ### Authentication
