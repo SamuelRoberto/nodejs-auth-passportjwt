@@ -5,7 +5,7 @@ NodeJS Authentication Boilerplate with Passport JWT Strategy
 ## Getting Started
 Open console and issue
 ```sh
-$ git clone https://github.com/expressjs/morgan.git
+$ git clone https://github.com/SamuelRoberto/nodejs-auth-passportjwt.git
 ```
 
 Then in the project directory
